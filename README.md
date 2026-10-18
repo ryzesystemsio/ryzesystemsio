@@ -6,6 +6,8 @@ Bienvenue sur le profil GitHub de **Ryze Systems**. Ce dépôt rassemble des lie
 
 [Vérifier l’accessibilité d’un site aux moteurs et aux réponses IA](guides/verifier-accessibilite-seo-geo.md) : une checklist avec méthodes, preuves à conserver et modèle de compte rendu. Elle aide à distinguer un problème technique, une information incohérente et un résultat encore non mesuré.
 
+[Du besoin au logiciel](guides/du-besoin-au-logiciel.md) : une fiche de cadrage, des critères de réception et un exemple fictif pour préparer un premier pilote.
+
 ## Explorer les sites
 
 **RyzeOS** est présenté comme le cerveau de l’écosystème. [Lire son étude de cas publique](https://katiaryze.com/realisations/ryzeos) pour découvrir le projet et son rôle. Ce lien mène à une présentation, pas à une offre d’accès public au logiciel.
