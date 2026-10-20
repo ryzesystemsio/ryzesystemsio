@@ -8,6 +8,8 @@ Bienvenue sur le profil GitHub de **Ryze Systems**. Ce dépôt rassemble des lie
 
 [Du besoin au logiciel](guides/du-besoin-au-logiciel.md) : une fiche de cadrage, des critères de réception et un exemple fictif pour préparer un premier pilote.
 
+[Compte rendu SEO/GEO : modèle et exemple rempli](guides/compte-rendu-seo-geo.md) : une fiche à copier pour relier observation, preuve, correction et mesure, avec un exemple entièrement fictif.
+
 ## Explorer les sites
 
 **RyzeOS** est présenté comme le cerveau de l’écosystème. [Lire son étude de cas publique](https://katiaryze.com/realisations/ryzeos) pour découvrir le projet et son rôle. Ce lien mène à une présentation, pas à une offre d’accès public au logiciel.
